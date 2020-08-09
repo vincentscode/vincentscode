@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm [Vincent](https://vincentscode.de)! 👋
 
-<!--
-**vincentscode/vincentscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/vincentscode">
+  <img align="left" alt="Vincent | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Vincent Schmandt, a self-taught full-stack developer from Germany.
+
+- 🔭 I’m currently working on [AINotes](https://www.ainotes.xyz/)
+- 🌱 I’m currently learning Networking
+- 👯 I’m always looking to collaborate on interesting projects
+- 💬 Ask me about anything [here](https://github.com/vincentscode/vincentscode/issues) or over on [Twitter](https://twitter.com/vincentscode)
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<a href="https://github.com/vincentscode?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentscode&show_icons=true&include_all_commits=true&theme=default_repocard&count_private=true" alt="Vincent's github stats" />
+</a>
