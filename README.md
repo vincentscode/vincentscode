@@ -12,9 +12,9 @@
 
 Hi, I'm Vincent Schmandt, a self-taught full-stack developer from Germany.
 
-- 🔭 I’m currently working on [AINotes](https://www.ainotes.xyz/)
-- 🌱 I’m currently learning Networking
-- 👯 I’m always looking to collaborate on interesting projects
+- 🚀 I’m currently working on [AINotes](https://www.ainotes.xyz/)
+- 🎓 I’m currently learning Networking
+- 🗄️ I’m always looking to collaborate on interesting projects
 - 💬 Ask me about anything [here](https://github.com/vincentscode/vincentscode/issues) or over on [Twitter](https://twitter.com/vincentscode)
 
 **Languages and Tools:**
