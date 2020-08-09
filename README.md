@@ -3,6 +3,9 @@
 <a href="https://twitter.com/vincentscode">
   <img align="left" alt="Vincent | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+<a href="https://keybase.io/vincentscode">
+  <img align="left" alt="Vincent | Keybase" width="21px" src="https://keybase.io/images/icons/icon-keybase-logo-48.png" />
+</a>
 
 <br />
 <br />
