@@ -26,5 +26,5 @@ Hi, I'm Vincent Schmandt, a self-taught full-stack developer from Germany.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <a href="https://github.com/vincentscode?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentscode&show_icons=true&include_all_commits=true&theme=default_repocard&count_private=true" alt="Vincent's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vincentscode&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="Vincent's github stats" />
 </a>
